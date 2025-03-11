@@ -10,24 +10,24 @@ The lab will demonstrate how to use the pfSense firewall alias to block access t
 
 <p align="center">
 <br/>
-<img src="https://i.imgur.com/qTAGFzx.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qTAGFzx.png" height="50%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <p align="center">
 <br/>
-<img src="https://i.imgur.com/M7Jq0aP.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<p align="center">
-<br/>
-<img src="https://i.imgur.com/LoQ4QWd.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/M7Jq0aP.png" height="50%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <p align="center">
 <br/>
-<img src="https://i.imgur.com/fJ8v4KR.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LoQ4QWd.png" height="50%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<p align="center">
+<br/>
+<img src="https://i.imgur.com/fJ8v4KR.png" height="50%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br /><p align="center">
 <br/>
-<img src="https://i.imgur.com/2XUK97w.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2XUK97w.png" height="50%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
